@@ -1,0 +1,3 @@
+﻿  期末3.c
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末3\期末3\期末3.c(91,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  期末3.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\期末\期末3\Debug\期末3.exe

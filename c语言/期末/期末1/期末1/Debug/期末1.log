@@ -1,0 +1,8 @@
+﻿  期末1.c
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(6,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(7,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(26,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(29,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(31,24): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\期末1\期末1.c(79,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  期末1.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1\Debug\期末1.exe

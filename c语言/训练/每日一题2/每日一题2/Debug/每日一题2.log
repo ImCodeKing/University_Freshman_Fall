@@ -1,0 +1,4 @@
+﻿  每日一题2.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题2\每日一题2\每日一题2.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题2\每日一题2\每日一题2.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  每日一题2.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题2\Debug\每日一题2.exe

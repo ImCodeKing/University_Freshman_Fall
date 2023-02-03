@@ -1,0 +1,6 @@
+﻿  期末1.2.c
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1.2\期末1.2\期末1.2.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1.2\期末1.2\期末1.2.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1.2\期末1.2\期末1.2.c(31,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1.2\期末1.2\期末1.2.c(44,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  期末1.2.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\期末\期末1.2\Debug\期末1.2.exe

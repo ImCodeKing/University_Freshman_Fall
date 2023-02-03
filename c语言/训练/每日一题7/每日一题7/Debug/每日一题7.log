@@ -1,0 +1,6 @@
+﻿  每日一题7.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题7\每日一题7\每日一题7.c(15,8): warning C4013: “memset”未定义；假设外部返回 int
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题7\每日一题7\每日一题7.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题7\每日一题7\每日一题7.c(193,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题7\每日一题7\每日一题7.c(198,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  每日一题7.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题7\Debug\每日一题7.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "密码2", "密码2\密码2.vcxproj", "{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Debug|x64.ActiveCfg = Debug|x64
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Debug|x64.Build.0 = Debug|x64
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Debug|x86.Build.0 = Debug|Win32
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Release|x64.ActiveCfg = Release|x64
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Release|x64.Build.0 = Release|x64
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Release|x86.ActiveCfg = Release|Win32
+		{23A85C0D-D4A3-4F09-A225-BA6A7F2B25EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F53A628-1023-490E-A745-5F29F9EDCC07}
+	EndGlobalSection
+EndGlobal

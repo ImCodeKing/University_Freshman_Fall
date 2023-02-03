@@ -1,0 +1,7 @@
+﻿  细胞分裂.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\细胞分裂\细胞分裂.c(35,40): warning C4244: “函数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\细胞分裂\细胞分裂.c(35,49): warning C4244: “函数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\细胞分裂\细胞分裂.c(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\细胞分裂\细胞分裂.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\细胞分裂\细胞分裂.c(27,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  细胞分裂.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\细胞分裂\Debug\细胞分裂.exe

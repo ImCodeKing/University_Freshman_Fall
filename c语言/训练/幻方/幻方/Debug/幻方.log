@@ -1,0 +1,10 @@
+﻿  幻方.cpp
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(23,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(25,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(58,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\幻方\幻方.cpp(67,20): warning C4018: “<”: 有符号/无符号不匹配
+  幻方.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\幻方\Debug\幻方.exe

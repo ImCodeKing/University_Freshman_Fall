@@ -1,0 +1,7 @@
+﻿  公交换乘.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\公交换乘\公交换乘.c(13,44): warning C4244: “函数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\公交换乘\公交换乘.c(14,45): warning C4244: “函数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\公交换乘\公交换乘.c(40,26): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\公交换乘\公交换乘.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\公交换乘\公交换乘.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  公交换乘.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\公交换乘\Debug\公交换乘.exe

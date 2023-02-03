@@ -1,0 +1,5 @@
+﻿  2021013445_12_01_MyDateTime.cpp
+C:\Users\李昭阳\Desktop\课程\c语言\重写1\重写1\2021013445_12_01_MyDateTime.cpp(125): warning C4715: “MyDateTime::SetDateTime”: 不是所有的控件路径都返回值
+2021013445_12_01_MyDateTime.obj : error LNK2019: 无法解析的外部符号 "public: virtual __thiscall MyDateTime::~MyDateTime(void)" (??1MyDateTime@@UAE@XZ)，函数 "public: virtual void * __thiscall MyDateTime::`scalar deleting destructor'(unsigned int)" (??_GMyDateTime@@UAEPAXI@Z) 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\李昭阳\Desktop\课程\c语言\重写1\Debug\重写1.exe : fatal error LNK1120: 2 个无法解析的外部命令

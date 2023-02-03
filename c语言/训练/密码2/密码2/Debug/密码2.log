@@ -1,0 +1,4 @@
+﻿  密码2.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\密码2\密码2\密码2.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\密码2\密码2\密码2.c(20): warning C4715: “CodeTransform”: 不是所有的控件路径都返回值
+  密码2.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\密码2\Debug\密码2.exe

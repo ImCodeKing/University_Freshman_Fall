@@ -1,0 +1,17 @@
+﻿  2021013445_50_03.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(14,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(19,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(23,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(25,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(34,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(36,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(44,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(46,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(52,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(54,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(63,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(69,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(27,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\2021013445_50_03\2021013445_50_03.c(31,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2021013445_50_03.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03\Debug\2021013445_50_03.exe

@@ -1,0 +1,7 @@
+﻿  2021013445_05_01.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_05\2021013445_05_01\2021013445_05_01\2021013445_05_01.c(9,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2021013445_05_01_GameCore.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_05\2021013445_05_01\2021013445_05_01\2021013445_05_01_GameCore.c(108,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_05\2021013445_05_01\2021013445_05_01\2021013445_05_01_GameCore.c(116,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  2021013445_05_01.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_05\2021013445_05_01\Debug\2021013445_05_01.exe

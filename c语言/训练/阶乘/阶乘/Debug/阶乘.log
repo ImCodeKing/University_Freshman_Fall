@@ -1,0 +1,4 @@
+﻿  阶乘.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\阶乘\阶乘\阶乘.c(98,32): warning C4244: “=”: 从“unsigned __int64”转换到“char”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\阶乘\阶乘\阶乘.c(91,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  阶乘.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\阶乘\Debug\阶乘.exe

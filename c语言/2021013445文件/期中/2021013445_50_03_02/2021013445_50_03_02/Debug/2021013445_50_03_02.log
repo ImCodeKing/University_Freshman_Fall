@@ -1,0 +1,13 @@
+﻿  2021013445_50_03_02.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(13,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(17,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(19,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(28,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(30,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(42,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(44,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(54,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(21,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\2021013445_50_03_02\2021013445_50_03_02.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2021013445_50_03_02.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\2021013445_50_03_02\Debug\2021013445_50_03_02.exe

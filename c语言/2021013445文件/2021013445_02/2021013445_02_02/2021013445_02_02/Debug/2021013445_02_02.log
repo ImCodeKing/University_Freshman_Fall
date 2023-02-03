@@ -1,0 +1,4 @@
+﻿  2021013445_02_02.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_02\2021013445_02_02\2021013445_02_02\2021013445_02_02.c(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_02\2021013445_02_02\2021013445_02_02\2021013445_02_02.c(6,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  2021013445_02_02.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\2021013445_02\2021013445_02_02\Debug\2021013445_02_02.exe

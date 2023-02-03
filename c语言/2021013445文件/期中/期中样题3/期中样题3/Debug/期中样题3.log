@@ -1,0 +1,4 @@
+﻿  期中试题3.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题3\期中样题3\期中试题3.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题3\期中样题3\期中试题3.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  期中样题3.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题3\Debug\期中样题3.exe

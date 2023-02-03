@@ -1,0 +1,4 @@
+﻿  HELP.c
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题1\期中样题1\HELP.c(90,18): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题1\期中样题1\HELP.c(130,8): warning C4013: “strcat”未定义；假设外部返回 int
+  期中样题1.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\2021013445文件\期中\期中样题1\Debug\期中样题1.exe

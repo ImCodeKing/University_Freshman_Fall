@@ -1,0 +1,7 @@
+﻿  每日一题1.c
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\每日一题1\每日一题1.c(39,12): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\每日一题1\每日一题1.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\每日一题1\每日一题1.c(14,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\每日一题1\每日一题1.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\每日一题1\每日一题1.c(34,1): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  每日一题1.vcxproj -> C:\Users\李昭阳\Desktop\课程\c语言\训练\每日一题1\Debug\每日一题1.exe
